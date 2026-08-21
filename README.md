@@ -1,13 +1,13 @@
 > [!NOTE]
-> **Community Hub**: For extended discussions, deeper research materials, and community archives that cannot be hosted on GitHub, join our Discord server: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk
+> **Community Hub**: For extended discussions, deeper research materials, and community archives that cannot be hosted on GitHub, join our Discord server: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk
 
 # GTA 6 Leak Breakdown — The Cyberleek Files & Full Proof
 
-![Repo Views](https://komarev.com/ghpvc/?username=zyrexdz-cyberleek-research&color=blue&style=flat-square&label=REPO+VIEWS) [![Community Discord](https://img.shields.io/badge/Discord-Join%20Research%20Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/cF83SGS33m)
+![Repo Views](https://komarev.com/ghpvc/?username=zyrexdz-cyberleek-research&color=blue&style=flat-square&label=REPO+VIEWS) [![Community Discord](https://img.shields.io/badge/Discord-Join%20Research%20Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/MJYnbzJYp)
 
 Everything we know about the August 2026 GTA VI gameplay leaks. Every claim backed with links, hashes, technical video checks, and on-chain proof.
 
-💬 **Official Research Community Discord**: Join our community server created by the repo owner for leak research, evidence submission, and discussion: [**https://discord.gg/cF83SGS33m**](https://discord.gg/cF83SGS33m)
+💬 **Official Research Community Discord**: Join our community server created by the repo owner for leak research, evidence submission, and discussion: [**https://discord.gg/MJYnbzJYp**](https://discord.gg/MJYnbzJYp)
 
 > [!CAUTION]
 > <a id="key-alerts"></a>
@@ -32,7 +32,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 <div align="center">
 
 ### 🚨 MAJOR DISCOVERY: LEAKER SHOOTS "LEEK" ON WALL WITH BULLET HOLES (POSSIBLE PLAYABLE BUILD)
-<img src="assets/video5_plane_01_40_leek_bullet_wall_proof.jpg" alt="Jason Shoots LEEK with Bullet Holes" width="720" />
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *In the newest 5th video drop (`plane.mp4` at 01:37), Jason Duval aims an assault rifle and shoots the word **`L E E K`** directly into the alley wall with live bullet holes.*
 
@@ -198,15 +198,15 @@ Here are the 8 files leaked by Cyberleek between August 16 and August 20, 2026 (
 <a id="bball-clip"></a>
 ### File 1: Basketball Gameplay Clip
 
-![Basketball Clip](./assets/video1_bball_focus_meter.jpg)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *Jason shooting hoops at a waterfront house in Leonida, showing the "Focus" bar.*
 
 * **ID**: `MEDIA-01-BBALL`
 * **What you see**: Jason shooting hoops on a wooden deck at a waterfront house somewhere in Leonida. There's a "Focus" meter that fills up when you make shots — looks like a proper gameplay mechanic, not a debug thing.
 * **Found at**: `https://leek.vilenarios.com/` (pulled from Solana account `FSKYZHqqzwKMYevwdZuAM4KRkcNQZqto9RLM27nKeEas`)
-* **Direct download**: [`arweave.net/3XQv_9nd...`](https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs)
-* **Backup mirror**: [`upload.ee/files/19658673`](https://www.upload.ee/files/19658673/output.mp4.html)
+* **Direct download**: Available via community archives [Discord](https://discord.gg/MJYnbzJYp) / [Telegram](https://t.me/+6f_p37NsA2w2YWRk)
+* **Backup mirror**: Available via community archives [Discord](https://discord.gg/MJYnbzJYp) / [Telegram](https://t.me/+6f_p37NsA2w2YWRk)
 * **Filename**: `output.mp4`
 * **Size**: 34.19 MB (35,845,958 bytes)
 * **Resolution**: 2560×1440 (1440p QHD)
@@ -223,15 +223,15 @@ Here are the 8 files leaked by Cyberleek between August 16 and August 20, 2026 (
 <a id="driving-clip"></a>
 ### File 2: Highway Driving & Delivery Van Clip
 
-![Driving Clip](./assets/video2_driving_picador_highway.jpg)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *Jason driving a Declasse Picador along coastal highways passing overhead signs for Goose Key and Vice City.*
 
 * **ID**: `MEDIA-02-DRIVE`
 * **What you see**: Jason driving a Declasse Picador pickup down a highway. You can see overhead green highway signs for **Goose Key**, **Hamlet**, and **Vice City**, plus other traffic like delivery vans and pickup trucks.
 * **Found at**: `https://leek.vilenarios.com/` (Solana account `9pUqCNKgRctNcm8F6gr6kYZkP5stzGzVRCAX1qcpVXoE`)
-* **Direct download**: [`arweave.net/hhOoYZt...`](https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg)
-* **Backup mirrors**: [`transfiles.ru/ybyf9`](https://transfiles.ru/ybyf9) / [`upload.ee/files/19662951`](https://www.upload.ee/files/19662951/video2.mp4.html)
+* **Direct download**: Available via community archives [Discord](https://discord.gg/MJYnbzJYp) / [Telegram](https://t.me/+6f_p37NsA2w2YWRk)
+* **Backup mirrors**: Available via community archives [Discord](https://discord.gg/MJYnbzJYp) / [Telegram](https://t.me/+6f_p37NsA2w2YWRk)
 * **Filename**: `video2.mp4`
 * **Size**: 35.00 MB (36,700,160 bytes)
 * **Resolution**: 1920×1080 (1080p Full HD)
@@ -255,8 +255,8 @@ Here are the 8 files leaked by Cyberleek between August 16 and August 20, 2026 (
 * **ID**: `MEDIA-03-MAPFULL`
 * **What you see**: The entire state of Leonida with 5 counties labeled — Lummox, Kelly, Leonard, Vice-Dale, and Mariana. Vice City is in the southeast corner.
 * **Found at**: `https://leek.vilenarios.com/` (Solana account `GwrASq3dqB5e1M2pti8bWiLNJZZhnsxHtsYpu7Y1bWcU`)
-* **Direct download**: [`arweave.net/GVTWJUb...`](https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0)
-* **Backup**: [`upload.ee/files/19662855`](https://www.upload.ee/files/19662855/full_map.png.html)
+* **Direct download**: Available via community archives [Discord](https://discord.gg/MJYnbzJYp) / [Telegram](https://t.me/+6f_p37NsA2w2YWRk)
+* **Backup**: Available via community archives [Discord](https://discord.gg/MJYnbzJYp) / [Telegram](https://t.me/+6f_p37NsA2w2YWRk)
 * **Filename**: `full_map.png`
 * **Size**: 3.54 MB
 * **Dimensions**: 2590×3240
@@ -276,7 +276,7 @@ Here are the 8 files leaked by Cyberleek between August 16 and August 20, 2026 (
 
 * **ID**: `MEDIA-04-MAPPEEK1`
 * **What you see**: A zoomed-in crop of Dalton Island (GTA's version of Fisher Island, Miami).
-* **Direct download**: [`arweave.net/MyMFWWJ...`](https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg)
+* **Direct download**: Available via community archives [Discord](https://discord.gg/MJYnbzJYp) / [Telegram](https://t.me/+6f_p37NsA2w2YWRk)
 * **Filename**: `map_sneak_peek_1.png`
 * **Size**: ~768 KB (1110×880)
 * **SHA-256**: `0d1f9f522b7cd5ac4e4b9702a73e1b7aaac86b3cbd4befb725c488fa4ff9bb12`
@@ -293,7 +293,7 @@ Here are the 8 files leaked by Cyberleek between August 16 and August 20, 2026 (
 
 * **ID**: `MEDIA-05-MAPPEEK2`
 * **What you see**: Zoomed-in crop showing Catalan Key, Gloriana Key, Tequesta Retreat, and Catalan Bay.
-* **Direct download**: [`arweave.net/zbfExgT...`](https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0)
+* **Direct download**: Available via community archives [Discord](https://discord.gg/MJYnbzJYp) / [Telegram](https://t.me/+6f_p37NsA2w2YWRk)
 * **Filename**: `map_sneak_peek_2.png`
 * **Size**: ~900 KB (1140×907)
 * **SHA-256**: `b223c52138bc03a6fc4f27ab0dd58f95cf7ae173efb948a452ea7bf5b552cbac`
@@ -305,11 +305,11 @@ Here are the 8 files leaked by Cyberleek between August 16 and August 20, 2026 (
 <a id="taser-clip"></a>
 ### File 6: Taser, Truck Hijacking & Boat Cutscene Clip
 
-![Taser Aim](./assets/video3_taser_weapon_aim.jpg)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *Jason aiming the Stun Gun / Taser (`9 1` ammo) inside the Allied Crystal Co. warehouse yard.*
 
-![Boat Cutscene](./assets/video3_taser_boat_cutscene.jpg)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *Daytime story scene on a boat in the mangrove keys.*
 
@@ -318,7 +318,7 @@ Here are the 8 files leaked by Cyberleek between August 16 and August 20, 2026 (
   * **Part 1 (0:00 – 1:52.5)**: Jason drives a muscle car into the **Allied Crystal Co.** sugar refinery yard at night in Ambrosia, turns on his gun flashlight, equips a **Stun Gun / Taser** (`9 1` ammo), tasers a worker, and steals an **MTL Packer** big rig while the worker yells: *"Stop! That's a gift from one of my boyfriends!"*
   * **Cut (1:52.5 – 1:54.5)**: 2-second black screen with no sound where two clips were edited together.
   * **Part 2 (1:54.5 – 2:04.5)**: A daylight scene on a boat in the swamp. Jason drinks beer with a friend with real voice acting: *"Good living. Here's to you, buddy."* → *"Enjoy your life till the men in suits decide to finally shut you the fuck up."*
-* **Mirrors**: [`gofile.io/d/qW134pdk`](https://gofile.io/d/qW134pdk) / [`bedrive.ru/ead5`](https://bedrive.ru/ead5)
+* **Mirrors**: Available via community archives [Discord](https://discord.gg/MJYnbzJYp) / [Telegram](https://t.me/+6f_p37NsA2w2YWRk)
 * **Filename**: `taser.mp4`
 * **Size**: 28.21 MB (28,213,903 bytes)
 * **Resolution**: 1920×1080 (1080p Full HD)
@@ -336,15 +336,15 @@ Here are the 8 files leaked by Cyberleek between August 16 and August 20, 2026 (
 <a id="junkies-clip"></a>
 ### File 7: Junkies Encounter, Police Motorcycle & Zombix Clip
 
-![Police Motorcycle Melee](./assets/hud_vcpd_police_motorcycle_melee.png)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *Jason knocking down a Vice City Police Department motorcycle officer at the intersection.*
 
-![Fuzzard Drain Canal](./assets/video4_junkies_00_42_jason_interaction.jpg)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *Fuzzard Drain Canal underneath massive highway overpasses.*
 
-![Homeless Camp & Zombix](./assets/video4_junkies_01_20_combat_or_action.jpg)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *Homeless camp brawl, RDR2 Stranger interaction prompts, and Zombix medical consumable discovery.*
 
@@ -359,7 +359,7 @@ Here are the 8 files leaked by Cyberleek between August 16 and August 20, 2026 (
   * **Part 6 (2:13.5 – 2:24.5)**: Spliced daylight boat cutscene where Jason drinks beer with Raul: *"Enjoy your life till the moment I decide to finally shut you the fuck up."*
 * **On-Chain Post**: Account `2XRc2NJhXkcFNBzWeMkbGunBMLLKRjdEkV9aBWZQ1ow`, Authority `6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3`
 * **On-Chain Transaction**: `3iKf4UjNdiCPR9K6PX8Y2WgP1cPB7QRwzBcC1g7HpKw8ruNGrRqzGeEhdN6PgijMVLk8XSMhpMYajMrv1MGe7cLv` (BlockTime `1787158475` / `2026-08-19 16:54:35 UTC`)
-* **Main Mirror**: [`gofile.io/d/t87ORtpm`](https://gofile.io/d/t87ORtpm)
+* **Main Mirror**: Available via community archives [Discord](https://discord.gg/MJYnbzJYp) / [Telegram](https://t.me/+6f_p37NsA2w2YWRk)
 * **Filename**: `junkies.mp4`
 * **Size**: 38.08 MB (39,933,164 bytes)
 * **Resolution**: 1920×1080 (1080p Full HD)
@@ -377,8 +377,8 @@ Here are the 8 files leaked by Cyberleek between August 16 and August 20, 2026 (
 <a id="plane-clip"></a>
 ### ✈️ File 8: Plane Flyover & Alley Shooting Clip (`plane.mp4`)
 <div align="center">
-  <img src="assets/video5_plane_00_15_prison_aerial.jpg" alt="Plane Aerial Penitentiary" width="48%" />
-  <img src="assets/video5_plane_01_40_leek_bullet_wall_proof.jpg" alt="Jason Shoots LEEK on Wall" width="48%" />
+  *[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
+  *[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 </div>
 
 *Left: High-altitude cinematic flyover passing directly above the Leonida State Penitentiary. Right: Groundbreaking interactive proof: Jason shoots the word "LEEK" on an alley wall with bullet holes.*
@@ -397,7 +397,7 @@ Here are the 8 files leaked by Cyberleek between August 16 and August 20, 2026 (
   * Account: `2q3rEUUZ7ChHTLMx4QBAnew4q7UqaXXcqZ6NVgb7LZ6T`
   * Authority: `6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3`
   * Release Timestamp: `2026-08-20 09:43:02 UTC` (`1787218982`)
-  * Direct Mirror: [upload.ee Mirror](https://www.upload.ee/files/19668811/plane.mp4.html)
+  * Direct Mirror: Upload.ee Mirror
 * **Gameplay Highlights**:
   * Aerial flyover of the **Leonida State Penitentiary** (Lucia's prison from Trailer 1)
   * Panoramic flyover of Vice City skyline, yacht marinas, and domed sports arena
@@ -410,8 +410,8 @@ Here are the 8 files leaked by Cyberleek between August 16 and August 20, 2026 (
 ### 🏎️ File 9: Hypercar Highway & Airport Boulevard Driving Clip (`hypercar1.mp4`)
 
 <div align="center">
-  <img src="assets/video6_hypercar_00_00_carjack.jpg" alt="Hypercar Carjacking on SW 4th St" width="48%" />
-  <img src="assets/video6_hypercar_01_10_skyline_ron_tanker.jpg" alt="Vice City Skyline and Highway Drive" width="48%" />
+  *[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
+  *[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 </div>
 
 *Left: Jason carjacking a white Truffade Thrax hypercar at the intersection of SW 4th St (0:00). Right: High-speed highway drive toward the downtown Vice City skyline passing a RON oil tanker (1:10).*
@@ -441,14 +441,14 @@ All external links and mirrors saved for checking:
 
 | Item | Main Link | Backup Mirror | Quality & Format |
 | :--- | :--- | :--- | :--- |
-| **Basketball Video** | [Arweave Gateway](https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs) | [Upload.ee](https://www.upload.ee/files/19658673/output.mp4.html) | 1440p MP4 (34 MB) |
-| **Driving Video** | [Arweave Gateway](https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg) | [Transfiles](https://transfiles.ru/ybyf9) / [Upload.ee](https://www.upload.ee/files/19662951/video2.mp4.html) | 1080p MP4 (35 MB) |
-| **Taser / Boat Video** | [Gofile.io](https://gofile.io/d/qW134pdk) | [Bedrive.ru](https://bedrive.ru/ead5) | 1080p MP4 (28 MB) |
-| **Junkies / Canal Video** | [Gofile.io](https://gofile.io/d/t87ORtpm) | Solana Tx `3iKf4UjN...` | 1080p MP4 (38 MB) |
-| **Hypercar Video** | [Arweave Gateway](https://arweave.net/example-hypercar-tx) | [Upload.ee](https://www.upload.ee/files/19671042/hypercar1.mp4.html) | 1080p MP4 (49.5 MB) |
-| **Full Map** | [Arweave Gateway](https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0) | [Upload.ee](https://www.upload.ee/files/19662855/full_map.png.html) | 2590×3240 PNG (3.5 MB) |
-| **Map Peek 1** | [Arweave Gateway](https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg) | — | 1110×880 PNG |
-| **Map Peek 2** | [Arweave Gateway](https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0) | — | 1140×907 PNG |
+| **Basketball Video** | Arweave Gateway | Upload.ee Mirror | 1440p MP4 (34 MB) |
+| **Driving Video** | Arweave Gateway | Transfiles Mirror / Upload.ee Mirror | 1080p MP4 (35 MB) |
+| **Taser / Boat Video** | Gofile.io Mirror | Bedrive.ru Mirror | 1080p MP4 (28 MB) |
+| **Junkies / Canal Video** | Gofile.io Mirror | Solana Tx `3iKf4UjN...` | 1080p MP4 (38 MB) |
+| **Hypercar Video** | Arweave Gateway | Upload.ee Mirror | 1080p MP4 (49.5 MB) |
+| **Full Map** | Arweave Gateway | Upload.ee Mirror | 2590×3240 PNG (3.5 MB) |
+| **Map Peek 1** | Arweave Gateway | — | 1110×880 PNG |
+| **Map Peek 2** | Arweave Gateway | — | 1140×907 PNG |
 
 ---
 
@@ -494,7 +494,7 @@ Here is what happens across all 5 leaked gameplay videos, broken down second-by-
 <a id="bball-breakdown"></a>
 ### Video 1: Basketball Gameplay (`output.mp4`, 69 Seconds)
 
-![Basketball Frame](./assets/video1_bball_focus_meter.jpg)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 * **`00:00:00` — Outdoor Waterfront Court** — Jason stands on a clean wooden deck holding a basketball with ocean and modern house architecture in the background. *Why it matters*: Shows real-time sunlight, shadow angles, and water reflections.
 * **`00:00:15` — Aiming the Basketball Shot** — Jason gets into shooting stance; a circular meter ("Focus" bar) appears around the player UI. *Why it matters*: First look at how mini-games and sports activities work in GTA VI.
@@ -507,7 +507,7 @@ Here is what happens across all 5 leaked gameplay videos, broken down second-by-
 <a id="driving-breakdown"></a>
 ### Video 2: Highway Driving & Delivery Van (`video2.mp4`, 68 Seconds)
 
-![Driving Frame](./assets/video2_driving_picador_highway.jpg)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 * **`00:00:00` — Driving the Declasse Picador** — Jason drives a rusty red/brown Declasse Picador pickup truck along a dual-lane asphalt highway. *Why it matters*: Shows real car handling, tire grip, and high-speed motion blur on Leonida roads.
 * **`00:00:18` — Overhead Highway Exit Signs** — The car passes under large green overhead highway signs pointing toward **Goose Key**, **Hamlet**, and **Vice City**. *Why it matters*: Confirms real in-game travel routes connecting the Keys to the Vice City metro.
@@ -520,7 +520,7 @@ Here is what happens across all 5 leaked gameplay videos, broken down second-by-
 <a id="taser-breakdown"></a>
 ### Video 3: Taser, Truck Hijacking & Boat Cutscene (`taser.mp4`, 124.5 Seconds)
 
-![Taser Aim](./assets/video3_taser_weapon_aim.jpg)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 * **`00:00:00` — Night Driving in Muscle Car** — Jason drives a rusty muscle car on a dark road. *Why it matters*: Shows real car suspension bumps, headlight beams, and road wetness on the real game engine.
 * **`00:00:23` — Pulling into Allied Crystal Yard** — Car turns into a factory gate with trucks and fuel tanks. *Why it matters*: Confirms the factory town of Ambrosia (parody of Clewiston, Florida).
@@ -537,15 +537,15 @@ Here is what happens across all 5 leaked gameplay videos, broken down second-by-
 <a id="junkies-breakdown"></a>
 ### Video 4: Junkies Encounter, Canal Fight & Police Motorcycle (`junkies.mp4`, 144.5 Seconds)
 
-![Police Motorcycle Melee](./assets/hud_vcpd_police_motorcycle_melee.png)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *Jason in hand-to-hand combat against a Vice City Police motorcycle officer.*
 
-![Homeless Camp](./assets/video4_junkies_01_00_encampment_env.jpg)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *Homeless camp underneath the concrete highway overpasses.*
 
-![Knife Combat & Zombix](./assets/video4_junkies_02_00_jason_movement.jpg)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *Knife combat on the embankment of Fuzzard Drain Canal.*
 
@@ -567,8 +567,8 @@ Here is what happens across all 5 leaked gameplay videos, broken down second-by-
 ### 4.5. Video 5: Plane Flyover & Alley Shooting Breakdown (`plane.mp4`, 141.5 Seconds)
 
 <div align="center">
-  <img src="assets/video5_plane_00_35_downtown_marina.jpg" alt="Plane Flyover Marina" width="48%" />
-  <img src="assets/video5_plane_01_40_leek_bullet_wall_proof.jpg" alt="Jason Shoots LEEK on Wall" width="48%" />
+  *[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
+  *[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 </div>
 
 *Left: Stunt biplane cinematic flyover across Vice City skyline and yacht marina (0:35). Right: Undeniable interactive proof: Jason shoots the word "LEEK" onto the alley wall with bullet holes (1:37).*
@@ -600,9 +600,9 @@ Here is what happens across all 5 leaked gameplay videos, broken down second-by-
 ### 4.6. Video 6: Hypercar Highway & Airport Boulevard Breakdown (`hypercar1.mp4`, 145.0 Seconds)
 
 <div align="center">
-  <img src="assets/video6_hypercar_00_15_thrax_nameplate_fuel.jpg" alt="Truffade Thrax Fuel HUD" width="32%" />
-  <img src="assets/video6_hypercar_00_45_airport_skytrain.jpg" alt="Airport Skytrain Metromover Tracks" width="32%" />
-  <img src="assets/video6_hypercar_01_45_bite_burger_plaza.jpg" alt="Bite Burger Plaza" width="32%" />
+  *[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
+  *[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
+  *[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 </div>
 
 *Left: Truffade Thrax vehicle nameplate card and fuel level meter (0:15). Center: Airport Skytrain tracks and multi-floor parking deck (0:45). Right: Bite Burger fast food restaurant and Whiz mobile commercial totem pole (1:45).*
@@ -637,7 +637,7 @@ The community spotted several brand-new UI and gameplay mechanics from the foota
 <a id="hud-clone-key"></a>
 #### 1. Vehicle Theft Choices: `CLONE KEY` vs `SMASH WINDOW`
 
-![Clone Key vs Smash Window](./assets/hud_clone_key_smash_window.png)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *When approaching locked vehicles, GTA VI introduces two distinct ways to steal them:*
 * **`CLONE KEY` (Stealth Option)**: Uses a digital key-cloner device to silently unlock and start the car without triggering alarms or police attention.
@@ -646,21 +646,21 @@ The community spotted several brand-new UI and gameplay mechanics from the foota
 <a id="hud-stamina-meter"></a>
 #### 2. Health & Focus / Stamina Meter
 
-![Health and Focus Bar](./assets/hud_health_focus_bar.png)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *A sleek pink player health bar with a segmented tick meter (`|||`) tracking character focus and energy levels.*
 
 <a id="hud-minimap"></a>
 #### 3. Modern Radar Minimap
 
-![Radar Minimap](./assets/hud_minimap_radar.png)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *The updated GTA VI rounded minimap showing player direction, compass positioning, and activity icons.*
 
 <a id="hud-rdr2-dialogue"></a>
 #### 4. NPC Dialogue Tree: `GREET` / `TAUNT` / `DEFUSE` / `WARN` (RDR2 System in GTA VI)
 
-![RDR2 Greet Taunt](./assets/hud_rdr2_greet_taunt_stranger.png)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *When interacting with NPCs or drivers, players get contextual dialogue choices:*
 * **`GREET` / `DEFUSE`**: Friendly conversation or de-escalating conflicts without violence (directly ported from Red Dead Redemption 2's conversation tree).
@@ -670,21 +670,21 @@ The community spotted several brand-new UI and gameplay mechanics from the foota
 <a id="hud-wanted-radius"></a>
 #### 5. Police Danger Zone & Search Radius (RDR2 Wanted System)
 
-![Danger Zone Search Area](./assets/hud_rdr2_dangerzone_search_area.png)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *When wanted, the minimap displays a large red **Danger Zone / Search Radius** (just like RDR2's police investigation areas). Players must break line-of-sight and escape outside the red circle to lose the cops.*
 
 <a id="hud-karma-morality"></a>
 #### 6. Karma & Morality System
 
-![Karma Demon Icon](./assets/hud_karma_demon_icon.png)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *A purple smiling demon/devil icon discovered in the UI, pointing to an underlying **Karma / Morality / Honor system** where player choices (stealing, defusing, killing) influence character reputation.*
 
 <a id="hud-zombix-system"></a>
 #### 7. Zombix Medical Consumable & Drug Tolerance System
 
-![Zombix Drug Tip](./assets/hud_zombix_drug_health_tip.png)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *In-game tutorial discovery: **"Repeated use of Zombix will temporarily have a weaker effect on your health."***
 * Zombix (originally an advertised painkiller brand in GTA V / GTA Online) is now a fully functional in-game medical consumable in GTA VI that heals the player, but features a **tolerance / diminishing returns mechanic** if used repeatedly.
@@ -692,14 +692,14 @@ The community spotted several brand-new UI and gameplay mechanics from the foota
 <a id="hud-fuzzard-canal"></a>
 #### 8. Location System: Fuzzard Drain Canal
 
-![Fuzzard Drain Canal](./assets/hud_fuzzard_drain_canal_location.png)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *Active location pop-up above the minimap introducing **Fuzzard Drain Canal**, an authentic South Florida-style concrete drainage basin under major highway interchanges.*
 
 <a id="hud-fuel-gauge"></a>
 #### 9. Vehicle Fuel & Gas Gauge System
 
-![Vehicle Fuel System](./assets/hud_fuel_gas_system_vapid.png)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *Below the vehicle name card (**Vapid '70 Ganado**), a dedicated **Gas Pump / Fuel Icon** is visible with a level meter, confirming an active in-game vehicle refueling and gas tank system!*
 
@@ -832,10 +832,10 @@ Every date here has a source you can check yourself:
 | **2026-08-18 17:28** | `full_map.png` uploaded | [Block #1982664](https://viewblock.io/arweave/tx/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0) | Cryptographically proves full map was uploaded to Arweave. |
 | **2026-08-18 19:05** | `video2.mp4` (Driving clip) uploaded | [Block #1982709](https://viewblock.io/arweave/tx/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg) | Cryptographically proves driving clip was uploaded to Arweave. |
 | **2026-08-18 ~22:00** | Original leak mirror Discord server gets banned by Discord; copycat replacement servers created (`ZWjnQSSJ2P`) | Server ban logs & Reddit reports | Proves early mirror server was banned by Discord Trust & Safety. |
-| **2026-08-19 ~12:00** | `taser.mp4` (Taser test, truck hijack, and boat scene) surfaces on mirrors | [Gofile Mirror](https://gofile.io/d/qW134pdk) | Proves third video surfaced. |
+| **2026-08-19 ~12:00** | `taser.mp4` (Taser test, truck hijack, and boat scene) surfaces on mirrors | [Gofile Mirror](https://gofile.io) | Proves third video surfaced. |
 | **2026-08-19 ~15:00** | Community checks by `garza` & `vaaatiel` expose fake blurred 2022 teasers on X | Discord investigation | Exposes Twitter promoter middleman manipulation. |
 | **2026-08-19 16:08** | Fake Discord mockup: user edits website HTML to show "Lucia Ending Video" with `file.io` button, reposted to Reddit between 17:25 and 17:43 GMT (Credit: `davit_36049`) | [Reddit & Discord Archive](#qa-lucia-ending-mockup) | Proven inspect element edit where user deleted "go" from gofile.io to fake a leak card. |
-| **2026-08-19 16:54** | `junkies.mp4` (Junkies Encounter, Police Motorcycle, Fuzzard Drain Canal & Boat Cutscene) posted on-chain | [Solana Tx `3iKf4UjN...`](https://solscan.io/tx/3iKf4UjNdiCPR9K6PX8Y2WgP1cPB7QRwzBcC1g7HpKw8ruNGrRqzGeEhdN6PgijMVLk8XSMhpMYajMrv1MGe7cLv) / [Gofile Mirror](https://gofile.io/d/t87ORtpm) | Cryptographically proves fourth video posted on-chain by Cyberleek authority wallet. |
+| **2026-08-19 16:54** | `junkies.mp4` (Junkies Encounter, Police Motorcycle, Fuzzard Drain Canal & Boat Cutscene) posted on-chain | [Solana Tx `3iKf4UjN...`](https://solscan.io/tx/3iKf4UjNdiCPR9K6PX8Y2WgP1cPB7QRwzBcC1g7HpKw8ruNGrRqzGeEhdN6PgijMVLk8XSMhpMYajMrv1MGe7cLv) / [Gofile Mirror](https://gofile.io) | Cryptographically proves fourth video posted on-chain by Cyberleek authority wallet. |
 | **2026-08-19 ~22:30** | Official leaker website poll concludes; `▶ Plane (DAY)` wins 100% of votes (65,342 $CYBERLEEK) | [Poll Winner Snapshot](#poll-plane-winner) | Confirms upcoming **Video 5** is scheduled as a daytime airplane flight / cinematic drive-by clip. |
 | **2026-08-19 ~23:48** | **Fake promoter Twitter `@cyberleek_ar_io` suspended by X** | [Suspension Proof](#debunking-twitter) | X bans the fake account; backup `@MrCyberLeek` posts a fake "FBI raid" GIF stunt. |
 | **2026-08-20 ~02:00** | **All Cyberleek Web3 gateways & portals restored ONLINE** | Live network checks | All gateways and mirrors (`leek.vilenarios.com`, `cyberleek.ario.koltigin.xyz`, `leek.turbo-gateway.com`, `cyberleek.turbo-gateway.com`, `cyberleek.ar.io`) are 100% up and working. |
@@ -1471,7 +1471,7 @@ To accurately understand how the poll operated, two important aspects must be di
 <a id="full-build-theory"></a>
 ### 8.9. 🟡 Game Build Access Analysis: Active Playable Access Confirmed via "LEEK" Bullet Wall Test
 
-![Jason Shooting LEEK on Wall](./assets/video5_plane_01_40_leek_bullet_wall_proof.jpg)
+*[Media removed to comply with GitHub policies. For archives and extended research materials that cannot be posted on GitHub, join our Discord: https://discord.gg/MJYnbzJYp or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *Groundbreaking interactive gameplay proof in Video 5: Jason Duval shoots the word "LEEK" into the alley wall with live bullet holes (01:37).*
 
@@ -2003,7 +2003,7 @@ Each is a separate withdrawal event in KuCoin's records, all traceable to the sa
 ## 13. Contributing & Submitting Evidence
 
 Have you spotted an error, found new verifiable evidence, or want to contribute additional research?
-* **Join the Community Discord**: [Join our Research Discord Server](https://discord.gg/cF83SGS33m) to chat with the repo owner, submit findings, and share evidence.
+* **Join the Community Discord**: [Join our Research Discord Server](https://discord.gg/MJYnbzJYp) to chat with the repo owner, submit findings, and share evidence.
 * **Open an Issue**: [Submit an Issue](https://github.com/zyrexdz/cyberleek-leak-research/issues) to suggest corrections, share mirrors, or submit newly discovered community findings.
 * **Submit a Pull Request**: [Open a Pull Request](https://github.com/zyrexdz/cyberleek-leak-research/pulls) with documented sources and proof.
 * *Note: All contributions must strictly adhere to our Fair Use & No-Hosting policy (do not submit raw copyrighted `.mp4` video files, torrent links, or confidential company binaries).*
