@@ -81,6 +81,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * ⚫ [File 6: Taser, Truck Hijacking & Boat Cutscene Clip (`taser.mp4`)](#taser-clip)
   * ⚫ [File 7: Junkies Encounter, Police Motorcycle & Zombix Clip (`junkies.mp4`)](#junkies-clip)
   * ⚫ [File 8: Plane Flyover & Alley Shooting Clip (`plane.mp4`)](#plane-clip)
+  * ⚫ [File 9: Hypercar Highway & Airport Boulevard Driving Clip (`hypercar1.mp4`)](#hypercar-clip)
 
 * 🔵 **[2. Direct Links & Mirror Table](#direct-links)**
 
@@ -94,7 +95,8 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * ⚫ [4.3. Video 3: Taser, Truck Hijacking & Boat Cutscene (124.5s)](#taser-breakdown)
   * ⚫ [4.4. Video 4: Junkies Encounter, Canal Fight & Police Motorcycle (144.5s)](#junkies-breakdown)
   * ⚫ [4.5. Video 5: Plane Flyover & Alley Shooting Breakdown (141.5s)](#plane-breakdown)
-  * 🔵 [4.6. New HUD & Gameplay Mechanics Discovered](#new-hud-mechanics)
+  * ⚫ [4.6. Video 6: Hypercar Highway & Airport Boulevard Breakdown (145s)](#hypercar-breakdown)
+  * 🔵 [4.7. New HUD & Gameplay Mechanics Discovered](#new-hud-mechanics)
     * 🔵 [1. Vehicle Theft: Clone Key vs Smash Window](#hud-clone-key)
     * 🔵 [2. Health & Focus / Stamina Meter](#hud-stamina-meter)
     * 🔵 [3. Modern Radar Minimap](#hud-minimap)
@@ -379,6 +381,27 @@ Here are the 8 files leaked by Cyberleek between August 16 and August 20, 2026 (
 
 ---
 
+<a id="hypercar-clip"></a>
+### 🏎️ File 9: Hypercar Highway & Airport Boulevard Driving Clip (`hypercar1.mp4`)
+
+* **File Name**: `hypercar1.mp4`
+* **File Size**: `51,881,423 bytes` (49.48 MB)
+* **Duration**: **145.03 Seconds** (02:25.03, 4,351 Frames at 30.00 FPS)
+* **Resolution & Format**: `1920x1080` (1080p Full HD, 16:9), HEVC/H.265 (Main 10 Profile, BT.2020 HDR10), AAC Stereo (48,000 Hz)
+* **Hashes**:
+  * MD5: `08dcdad7dd06038ac3e28fe5c00613fc`
+  * SHA-1: `37f85cca91ce486a2c74d129f7c79cc26bc95343`
+  * SHA-256: `c0df0e6fb48dd63da24d1e551d17b0cdd366ad7a0ccba9710d494f81fd2cd321`
+* **Software used to edit**: FFmpeg 6.1 (`Lavf60.16.100` / `Lavc60.31.102 libx265`) (exact same toolchain used across all leaked gameplay videos)
+* **Gameplay Highlights**:
+  * Jason pulls an NPC out of a white **Truffade Thrax** hypercar on **SW 4th St** while the NPC yells *"You ain't shit!"*
+  * Overhead highway signs showing **NORTH 97**, **TO 397**, **Downtown**, and **Vice City Int Airport (All Terminals)**
+  * Airport loop drive showing elevated **Airport Skytrain / Metromover** tracks and multi-floor parking decks
+  * High speed driving past a **Vice City Transit** bus, a **RON** oil tanker truck, an **eCola / Fizz** box delivery truck, and a **Bite Burger** drive-thru plaza with **Whiz** mobile billboards
+
+
+---
+
 <a id="direct-links"></a>
 ## 2. Direct Links & Mirror Table
 
@@ -390,6 +413,7 @@ All external links and mirrors saved for checking:
 | **Driving Video** | [Arweave Gateway](*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]* | [Transfiles](*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]* / [Upload.ee](*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]* | 1080p MP4 (35 MB) |
 | **Taser / Boat Video** | [Gofile.io](*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]* | [Bedrive.ru](*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]* | 1080p MP4 (28 MB) |
 | **Junkies / Canal Video** | [Gofile.io](*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]* | Solana Tx `3iKf4UjN...` | 1080p MP4 (38 MB) |
+| **Hypercar Video** | [Arweave Gateway](*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]* | [Upload.ee](https://www.upload.ee/files/19671042/hypercar1.mp4.html) | 1080p MP4 (49.5 MB) |
 | **Full Map** | [Arweave Gateway](*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]* | [Upload.ee](*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]* | 2590×3240 PNG (3.5 MB) |
 | **Map Peek 1** | [Arweave Gateway](*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]* | — | 1110×880 PNG |
 | **Map Peek 2** | [Arweave Gateway](*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]* | — | 1140×907 PNG |
@@ -400,7 +424,7 @@ All external links and mirrors saved for checking:
 ## 3. Video Comparison & Technical Details
 
 <a id="video-specs-table"></a>
-### Comparing All 5 Videos:
+### Comparing All 6 Videos:
 
 | Video | Shared Footage | New Footage | Reused Footage | Main Highlights |
 | :--- | :--- | :--- | :--- | :--- |
@@ -409,6 +433,7 @@ All external links and mirrors saved for checking:
 | **`taser.mp4` (Taser / Truck / Boat)** | None | **100% (124.5s)** | None | 1080p resolution; **2 clips joined together** showing night sugar refinery yard and day boat cutscene. |
 | **`junkies.mp4` (Junkies / Canal / Boat)**| Boat cutscene (11s) | **92.4% (133.5s)**| Boat scene shared with `taser.mp4` | 1080p resolution; **2 clips joined together** showing police motorcycle combat, Fuzzard Drain Canal, homeless camp, Zombix health tip, and knife fight. |
 | **`plane.mp4` (Plane / Alley Shooting)** | None | **100% (141.5s)** | None | 1080p HDR resolution; **2 clips joined together** showing stunt biplane flyover of Leonida Penitentiary, Vice City marina/skyline, and Jason shooting the word "LEEK" onto an alley wall. |
+| **`hypercar1.mp4` (Hypercar Drive)** | None | **100% (145.0s)** | None | 1080p HDR resolution; single continuous 145s drive showing Truffade Thrax carjacking, airport skytrain tracks, highway signs, and Bite Burger plaza. |
 
 <a id="video-tech-forensics"></a>
 ### Technical Details Check:
@@ -529,6 +554,31 @@ Here is what happens across all 5 leaked gameplay videos, broken down second-by-
   * **The 'K' (01:34)**: Vertical line and upper/lower diagonal arms.
   * *Why this is a monumental breakthrough*: **This 100% proves the person recording had active, live controller/mouse input control over a playable GTA VI build.** This was not a pre-rendered reel or stolen trailer asset — the player actively spelled out "LEEK" on the wall as undeniable proof of live gameplay!
 * **00:01:38 — Crime Detection & Wanted System** — Firing the weapon in public triggers the pedestrian/crime eye icon, which immediately escalates to a **1-Star Wanted Level** (flashing star) and a red police search cone on the bottom-left radar minimap as the ammo count drops from `18 54` down to `0 21`.
+
+---
+
+<a id="hypercar-breakdown"></a>
+### 4.6. Video 6: Hypercar Highway & Airport Boulevard Breakdown (`hypercar1.mp4`, 145.0 Seconds)
+
+* **Total Clip Duration**: **145.03 Seconds** (02:25.03, 4,351 video frames at 30.00 FPS)
+* **Clip Structure**: One long continuous developer gameplay clip with zero cuts or edits.
+
+#### Second-by-Second Timeline:
+
+* **`00:00:00` Carjacking on SW 4th St**: Jason (wearing a white tank top and jeans) yanks an NPC driver out of a white hypercar at an intersection with a street sign reading **SW 4th St**. The driver drops to the ground and shouts *"You ain't shit!"*. *Why it matters*: Shows smooth carjacking animations, real ragdoll physics when people hit the ground, and authentic spoken voice lines.
+* **`00:00:08` Getting in the Truffade & Door Physics**: Jason gets inside the hypercar and shuts the scissor door. The active rear wing twitches and the twin-turbo engine roars to life while the NPC stays on the road next to a pickup truck. *Why it matters*: Shows dynamic interior lighting, cockpit dashboard glow, and working movable aero parts on high-end cars.
+* **`00:00:15` Vehicle Name Card & Gas Gauge HUD**: As the car speeds away, the vehicle name card pops up on the bottom left reading **TRUFFADE THRAX**. Underneath the name card, three icons show up: seatbelt, engine check light, and a working **Gas Tank / Fuel Meter**. *Why it matters*: Confirms the Bugatti Divo style **Truffade Thrax** returns in GTA VI with the new fuel management system.
+* **`00:00:22` Passing Vice City Transit Bus & Highway Signs**: The Thrax passes a full-size **Vice City Transit** municipal bus. Overhead green signs point toward **NORTH 97**, **TO 397**, **Downtown**, and **Vice City Int Airport**. *Why it matters*: Confirms the road numbering system for Leonida (Route 97 and Route 397) and detailed public transit bus models with rear ad posters.
+* **`00:00:30` Crime Reported Notification & 5-Star Wanted HUD**: While flying past parked semi-trucks along an industrial fence, the top-right corner shows a **Crime reported** alert. The 5-star wanted bar appears with disguise status icons for masks, hats, and gloves. *Why it matters*: Shows the witness crime reporting delay where NPCs report stolen high-end supercars to the police.
+* **`00:00:40` Airport Skytrain Tracks & Curve**: Jason takes a wide turn toward the airport area. In the background, elevated concrete tracks for an automated **Airport Skytrain / Metromover** train run right next to the road. *Why it matters*: Shows functioning elevated airport people-movers modeled directly on the real Miami airport skytrain.
+* **`00:00:50` Airport Parking Garage & Grip Physics**: The Thrax corners hard around a palm tree divider next to a large multi-floor airport parking garage with bright top-deck floodlights. *Why it matters*: Shows realistic tire grip physics, slight body roll at high speeds, and puddle reflections on the asphalt.
+* **`00:01:00` Highway On-Ramp & Crash Barrels**: Jason heads up an elevated on-ramp to get on the main highway. The split has yellow and black impact crash barrels (tiger teeth). *Why it matters*: Highlights real South Florida highway design and dynamic roadside objects.
+* **`00:01:10` Vice City Skyline & RON Oil Tanker**: Merging onto the highway, the downtown skyline appears in the evening sky with tall glass towers and the Grand Majestic building. Jason swerves around a large orange **RON Oil** tanker truck. *Why it matters*: Shows huge draw distances, volumetric clouds at sunset, and the return of the classic GTA fuel brand RON.
+* **`00:01:25` iFruit CarPlay Radar Minimap**: While driving over 120 MPH through highway traffic, the top-left of the GPS radar minimap shows the **iFruit CarPlay** logo with smooth live route navigation. *Why it matters*: Proves the in-car CarPlay system works across different vehicles with real-time GPS re-routing.
+* **`00:01:35` Causeway Road & Radio Antenna Tower**: The road goes over a water causeway with a huge steel broadcast radio tower held up by guy wires on the right. A modern pickup truck passes in the opposite lane with bright LED headlamps. *Why it matters*: Shows high-detail radio tower assets and sharp nighttime vehicle lighting.
+* **`00:01:40` Industrial Street & eCola Delivery Truck**: Moving into an industrial zone, the car passes utility poles with tangled power lines and a parked **eCola / Fizz** box delivery truck next to a steel railroad bridge. *Why it matters*: Shows the density of roadside power lines and freight delivery trucks across Leonida.
+* **`00:01:45` Bite Burger Plaza & Whiz Billboard**: The car pulls up to an intersection next to a **Bite Burger** fast food spot with an **OPEN DAILY** burger neon sign and a tall commercial pole advertising Bite and **Whiz Mobile**. A grey SUV drives past as the video cleanly ends at `02:25.03`. *Why it matters*: Confirms classic GTA satire brands like **Bite Burger** and **Whiz Mobile** return with full drive-thru buildings and neon signs.
+
 
 ---
 
