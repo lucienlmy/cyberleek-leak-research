@@ -47,7 +47,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 <div align="center">
 
 #### ❌ Official Proof from Video 4 Watermark: "CYBERLEEK DOES NOT HAVE TWITTER"
-<img src="assets/cyberleek_watermark_no_twitter_proof.png" alt="Cyberleek No Twitter Watermark" width="550" />
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *In the 4th video drop (`junkies.mp4`), the official watermark explicitly states: **`"CYBERLEEK DOES NOT HAVE TWITTER — OFFICIAL NEWS ONLY HERE"`**.*
 
@@ -640,7 +640,7 @@ The community spotted several brand-new UI and gameplay mechanics from the foota
 
 <a id="hud-carplay-nav"></a>
 #### 10. In-Car iFruit CarPlay Navigation System
-![iFruit CarPlay Minimap](assets/community_7kkurd_ifruit_carplay_minimap.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Discovered by X user `@7Kkurd`: When driving modern cars, the top-left of the GPS minimap displays the **iFruit logo** (Apple parody), confirming an in-game **Apple CarPlay / iFruit dashboard integration**.*
 
 ---
@@ -648,8 +648,8 @@ The community spotted several brand-new UI and gameplay mechanics from the foota
 <a id="niktek-breakdown"></a>
 ### Community Breakdown on X: Full Gameplay Observations (`@NikTek`)
 
-![NikTek Breakdown Part 1](assets/community_niktek_breakdown_part1.png)
-![NikTek Breakdown Part 2](assets/community_niktek_breakdown_part2.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Viral breakdown by gaming creator `@NikTek` analyzing combat, wanted levels, and environmental mechanics in `taser.mp4`.*
 
 Key gameplay observations documented by `@NikTek`:
@@ -678,26 +678,26 @@ The leaked map names 5 counties. We checked them against official Rockstar trail
 *Highway sign from Trailer 2 at 2:29 showing Route 404 East heading into Mariana County.*
 
 ### Community Map Breakdown (`martipk` & Discord Research):
-![Martipk Map Breakdown](assets/community_claim_martipk_map_real.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Community researcher `martipk` explaining why the leaked map is an authentic developer overview (PROVENANCE UNRESOLVED: Contradicts earlier 2023 outdated map theory) asset.*
 
 * **Why the map is real**: The leaked map is a **low-render developer overview** that omits small streets, bridges, and tunnels for high-level planning. Its coastlines, counties, and inlets match trailer landmarks with extreme accuracy that fan maps never had.
 
 <a id="map-zoom"></a>
 ### 1. Map Zoom Reveals Detailed Road Networks
-![Map Zoom Details](assets/community_claim_map_zoom_details.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Demonstration showing how the overview map expands into detailed road layouts when zoomed in.*
 * When zoomed in, the overview map reveals complete local street networks, highway interchanges, and building layouts for areas like **Catalan Key**, **Gloriana Key**, and **Dalton Island**.
 
 <a id="landmass-size"></a>
 ### 2. Map Size Comparison: GTA 6 is ~1.656x Bigger than GTA 5
-![Landmass Comparison](assets/community_claim_landmass_size_gta5_comparison.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Python pixel-counting script by Reddit user `u/UUT-` (`r/GTA6unmoderated`) comparing landmass area.*
 * **Landmass Measurement**: By counting usable land pixels, GTA VI's Leonida comes out to **778,026 pixels** versus GTA V's San Andreas at **469,834 pixels** — making GTA VI **1.656 times larger in pure landmass** than GTA V. This matches Jason Schreier's earlier reporting that Rockstar scaled the launch map to ~1.5x–2x with plans to add more land post-release.
 
 <a id="legendary-animals"></a>
 ### 3. Legendary Animals Confirmed (RDR2 Hunting System in GTA VI)
-![Legendary Gator Marker](assets/community_claim_legendary_animal_gator.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Crowned alligator icon inside a yellow badge pin in the Grassrivers swamp.*
 * **Legendary Animal Hunting**: The map features special icons like a **crowned alligator** in the Grassrivers wetlands. This confirms that the **Legendary Animal hunting system from Red Dead Redemption 2** is returning in GTA VI as a side activity.
 
@@ -719,7 +719,7 @@ The leaked map names 5 counties. We checked them against official Rockstar trail
 <a id="jason-junkies-path"></a>
 ### 5. Verified Location Path in Video 4 (`junkies.mp4`): South Vice-Dale County & Route 97
 
-![Jason Verified Path in Video 4](assets/community_theicybee_jason_junkies_path.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Mapping breakdown by community researcher `@theicybee` confirming Jason's exact route in Video 4 across South Vice-Dale County.*
 
 Community researcher **[@theicybee](https://github.com/zyrexdz/cyberleek-leak-research)** successfully identified and mapped Jason's exact movement in Video 4 (`junkies.mp4`):
@@ -853,13 +853,13 @@ Every date here has a source you can check yourself:
 
 <a id="discord-bans"></a>
 ### 7.6. ❌ Discord Server Bans, Replacement Servers & Fake Twitter Drama
-![Discord Ban Proof](assets/discord_old_server_banned_proof.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Screenshot from replacement server showing `cyberleek_west` confirming Discord banned the old server.*
 
-![New Server Restricted Proof](assets/discord_new_server_restricted_proof.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Screenshot showing `cyberleek_west` on the restricted backup server stating "the server was restricted again... rip".*
 
-![Fake Twitter Disavowal Tweet](assets/debunking_fake_discord_cyberleek_tweet.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Tweets from the fake `@cyberleek_ar_io` Twitter account trying to disown Discord leak schedules.*
 
 * **Status**: 🔴 **PROVED FAKE / PRETENDER DRAMA**
@@ -881,7 +881,7 @@ Every date here has a source you can check yourself:
 
 *(Discord investigation and Reddit timestamp tracking credit: Community researcher `davit_36049` on Discord)*
 
-![Discord Lucia Ending Mockup](assets/discord_claim_6_lucia_ending_fake_mockup.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Archived screenshot showing an inspect element edit of the website teaser card titled GTA 6: LUCIA ENDING VIDEO with a file.io button.*
 
 * **Status**: 🔴 **100% PROVEN FAKE INSPECT ELEMENT MOCKUP**
@@ -1044,7 +1044,7 @@ While the wallet trail is real, we still have to be careful before jumping to fi
 <a id="solana-bytecode-analysis"></a>
 #### 8.4.4. ❌ Smart Contract Bytecode: Debunking "GTA Audio SDT" False Positives (@koffiekasper)
 
-![Solana Smart Contract Bytecode Magic Number Chart](assets/solana_bytecode_magic_numbers_chart.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Sequential magic byte analysis of the Cyberleek Solana smart contract upload payloads. (Analysis and chart courtesy of community researcher @koffiekasper).*
 
 Community researcher **[@koffiekasper](https://github.com/zyrexdz/cyberleek-leak-research)** conducted a binary inspection of the sequential `Write` instructions sent by deployer wallet [`6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3`](https://explorer.solana.com/address/6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3):
@@ -1064,7 +1064,7 @@ Community researcher **[@koffiekasper](https://github.com/zyrexdz/cyberleek-leak
 
 *(Dread post discovery credit: [@bnwkr](https://x.com/bnwkr) on X)*
 
-![Dread Dark Web Leak Post](assets/dread_darkweb_leak_post.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *User "CyberLeeker" posting the stolen GTA 6 basketball gameplay clip on Dread (/d/leaks) on August 18, 2026 at 07:36 UTC.*
 
 Before the leak blew up across Twitter and Reddit, the leaker actually dropped the footage on the dark web first:
@@ -1079,8 +1079,8 @@ Before the leak blew up across Twitter and Reddit, the leaker actually dropped t
 <a id="manifesto-three-commandments"></a>
 #### 2. The Official "Three Commandments" Manifesto & Extortion Demands
 
-![Cyberleek Commandments 1 and 2](assets/cyberleek_commandments_1_and_2_highres.png)
-![Cyberleek Commandment 3](assets/cyberleek_commandment_3_highres.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *High-resolution portal screenshots from `*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]* displaying the complete "Three Commandments" manifesto.*
 
@@ -1110,14 +1110,14 @@ Before the leak blew up across Twitter and Reddit, the leaker actually dropped t
 
 *(Investigation & evidence credits: Discord community researchers **`garza`** and **`vaaatiel`**)*
 
-![Garza Debunking Breakdown](assets/debunking_garza_analysis.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Discord investigation by community researcher `garza` pointing out major inconsistencies with the @cyberleek_ar_io account.*
 
 Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X account found clear proof that the person tweeting was **an imposter/promoter**, NOT the creator of the leak website:
 
 <a id="debunking-username-history"></a>
 #### 8.6.1. ❌ Deceptive Username History & Renamed Accounts
-![Vaaatiel Username Change Proof](assets/debunking_vaaatiel_username_proof.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Research by community member `vaaatiel` showing how Twitter's "About" page displays previous name change dates.*
 * **Status**: 🟢 **VERIFIED COMMUNITY RESEARCH**
 * **Finding**: Twitter's "About this account" date can reflect old data from a renamed profile. A creation date from earlier in 2026 does not prove the account was originally set up by the leaker — it was likely an existing profile renamed right before the leaks to capitalize on hype.
@@ -1129,7 +1129,7 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 
 <a id="debunking-blurred-threats"></a>
 #### 8.6.3. ❌ Proved Fake Threat: Blurred 2022 Leaks as "New Footage"
-![Blurred 2022 Leak Tweet](assets/debunking_blurred_2022_leak_tweet.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Tweet by @cyberleek_ar_io threatening Rockstar with a blurred image taken from the 2022 nightclub leak.*
 
 * **Status**: 🔴 **PROVED FAKE / RECYCLED 2022 FOOTAGE**
@@ -1141,7 +1141,7 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 
 <a id="debunking-middleman-reality"></a>
 #### 8.6.4. ❌ The Outside Imposter / Middleman Reality
-![Twitter for iPhone](assets/debunking_twitter_for_iphone.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Tweets sent via "Twitter for iPhone" from the imposter account.*
 
 * **Status**: 🔴 **PROVED IMPOSTER ACCOUNT**
@@ -1152,7 +1152,7 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 
 <a id="debunking-watermark-proof"></a>
 #### 8.6.5. ❌ Official Proof: "CYBERLEEK DOES NOT HAVE TWITTER"
-![Cyberleek No Twitter Watermark](assets/cyberleek_watermark_no_twitter_proof.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Official watermark from the 4th video drop (`junkies.mp4`) explicitly proving Cyberleek never had Twitter.*
 
 * **Status**: 🔴 **ALL TWITTER ACCOUNTS ARE 100% FAKE / IMPOSTERS**
@@ -1165,8 +1165,8 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 <a id="debunking-fbi-raid-larp"></a>
 #### 8.6.6. ❌ Proved Fake Drama: Account Suspension & Staged "FBI Raid" Meme GIF
 <div align="center">
-  <img src="assets/fake_twitter_cyberleek_suspended.png" alt="Fake Twitter Suspended" width="300" />
-  <img src="assets/fake_twitter_secondary_mrcyberleek_fbi_gif.png" alt="Fake Secondary FBI Raid GIF" width="300" />
+  *[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
+  *[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 </div>
 
 *Left: `@cyberleek_ar_io` suspended on X. Right: Secondary account `@MrCyberLeek` posting a SWAT door-breach meme GIF pretending to be raided.*
@@ -1203,7 +1203,7 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 
 | DexScreener Token Social Profile | Clicking Twitter Leads to Suspended Account |
 | :---: | :---: |
-| <img src="assets/dexscreener_cyberleek_twitter_profile_proof.png" alt="DexScreener CyberLeek Profile Proof" width="360" /> | <img src="assets/dexscreener_twitter_suspended_proof.png" alt="DexScreener Suspended Twitter Proof" width="360" /> |
+| *[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]* | *[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]* |
 | *DexScreener profile for token `ApZuxdpz...` showing Website and Twitter buttons.* | *Clicking the Twitter button opens the suspended `@cyberleek_ar_io` page.* |
 
 </div>
@@ -1226,7 +1226,7 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 
 <a id="poll-plane-winner"></a>
 ### 8.7. Video 5 Release & Website Poll: "Plane (DAY) — Cinematic Drive-By" (Delivered via On-Chain Drop)
-![Cyberleek Live Poll Countdown](assets/cyberleek_poll_live_plane_timer.jpg)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *Live poll on the official website (`cyberleek.turbo-gateway.com` / `cyberleek.ar.io`) showing the exact countdown ending August 20, 2026 at 11:26 UTC.*
 
@@ -1238,7 +1238,7 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
   * 🟢 *Status*: **DELIVERED & VERIFIED**. The poll was fulfilled by the website leakers with genuine 1080p HDR footage.
 <a id="poll-whale-tx"></a>
 * **The Voting Results & The $80 Vote**:
-  ![Poll $80 Vote Transaction](assets/cyberleek_poll_vote_80_dollar_tx.jpg)
+  *[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
   *Solana on-chain transfer showing a single payment of 65,342.86 $CYBERLEEK tokens (~$80.24 USD) that won the poll.*
   * **Status**: 🟢 **VERIFIED ON-CHAIN BLOCKCHAIN FACT**
   * **Direct Source Link (Solana Explorer)**: [Solana Explorer Address: 8MAye9xrLzeeapUMo2XM9r3TRsoTNnz9pywqoTpiiKlB](https://explorer.solana.com/address/8MAye9xrLzeeapUMo2XM9r3TRsoTNnz9pywqoTpiiKlB)
@@ -1262,7 +1262,7 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 *(Technical analysis and frontend extraction credit: Community researcher Goons / `justarandomnerd`)*
 
 <div align="center">
-  <img src="assets/cyberleek_poll_system_architecture_diagram.png" alt="CyberLeek Poll System Architecture and Code Breakdown" width="100%" />
+  *[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
   <p><em>Technical architecture showing the frontend voting decoder, the on-chain finalBalances snapshot mechanism, and operator upgrade authority.</em></p>
 </div>
 
@@ -1342,8 +1342,8 @@ To accurately understand how the poll operated, two important aspects must be di
 *(Radio song discovery credit: GitHub contributor [@Phantomymous](https://github.com/Phantomymous) — [Issue #2](https://github.com/zyrexdz/cyberleek-leak-research/issues/2) & industry confirmation by `NateDrake`)*
 
 <div align="center">
-  <img src="assets/community_claim_natedrake_age.png" alt="NateDrake Age Proof" width="340" />
-  <img src="assets/community_claim_tate_mcrae_2025_build_proof.png" alt="Tate McRae 2025 Build Proof" width="340" />
+  *[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
+  *[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 </div>
 
 *Left: Insider NateDrake confirming the footage is over a year old. Right: GitHub contributor `Phantonymous` pointing out the in-game radio track.*
@@ -1381,7 +1381,7 @@ To accurately understand how the poll operated, two important aspects must be di
 
 <a id="debunking-rdr2-mod"></a>
 ### 8.10. ❌ 100% DEBUNKED FAKE THEORY: "It's Just an RDR2 Mod with a Cities: Skylines Map"
-![Debunking RDR2 Mod Theory](assets/debunking_fake_rdr2_mod_theory.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *❌ **100% DEBUNKED VIRAL CLAIM**: Tweet by `@DailyInterw6ac` falsely claiming the leaks are just a Cities: Skylines map imported into Red Dead Redemption 2.*
 
 * 🚫 **Verdict**: **100% FALSE & TECHNICALLY IMPOSSIBLE**
@@ -1403,16 +1403,16 @@ To accurately understand how the poll operated, two important aspects must be di
 
 <a id="szenebox-profile"></a>
 ### 8.11. Deep Dive: German & Swiss Identity Profile (SzeneBox & tech-forum.ch)
-![Cyberleek 2018 Forum Post](assets/cyberleek_2018_forum_introduction_post.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Archived introduction post by user `cyberleek` on German IT security forum `szenebox.org` from January 3, 2018.*
 
-![GamingSkew Tweet Proof](assets/cyberleek_2018_forum_tweet_gamingskew.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Community discovery report shared by `@gamingskew` and `@nico_s29` on X documenting the 2018 forum post.*
 
-![Szenebox Google Search Index Proof](assets/szenebox_google_search_index_proof.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Google Search index proof showing user `cyberleek` on `szenebox.org` in January 2018 discussing JS coding help and reporting an XSS web security bug.*
 
-![Szenebox vBulletin System Notice](assets/cyberleek_szenebox_forum_system_notice.png)
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 *Visiting the live thread URL on `szenebox.org` showing the standard vBulletin permission notice for unregistered guests.*
 
 On August 19, 2026, community researchers [@nico_s29](https://x.com/nico_s29) and [@gamingskew](https://x.com/gamingskew) uncovered archived forum records on [**szenebox.org**](https://szenebox.org) (one of Germany's longest-running underground IT security, hacking, and scene boards, operating since 2007) matching the exact handle [**`cyberleek`**](https://szenebox.org/members/5490.html) and his dark flaming skull avatar.
@@ -1458,10 +1458,10 @@ Here is the complete breakdown of forum evidence:
 ##### 2. The Second Account (`tech-forum`) & Swiss Website (`tech-forum.ch`)
 
 <div align="center">
-  <img src="assets/cyberleek_techforum_intro_dec2017.png" alt="Tech-Forum Introduction" width="210" />
-  <img src="assets/cyberleek_techforum_dollar_template_jan2018.png" alt="Tech-Forum Dollar Template" width="210" />
-  <img src="assets/cyberleek_techforum_linux_terminal_jan2018.png" alt="Tech-Forum Linux Terminal" width="210" />
-  <img src="assets/cyberleek_techforum_csgo_server_jan2018.png" alt="Tech-Forum CSGO Server" width="210" />
+  *[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
+  *[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
+  *[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
+  *[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 </div>
 
 *Screenshots from SzeneBox showing Cyberleek's secondary account `tech-forum` advertising his Swiss site `tech-forum.ch` and discussing Linux, 3D printing, and CS:GO game servers. (Discovery credit: [@nico_s29](https://x.com/nico_s29) on X — [Issue #12](https://github.com/zyrexdz/cyberleek-leak-research/issues/12))*
@@ -1496,7 +1496,7 @@ On August 19, 2026, researcher [@nico_s29](https://x.com/nico_s29) uncovered arc
   * *Takeaway*: Proves he was hosting dedicated multiplayer **CS:GO Game Servers** and building automated anti-spam bots in early 2018.
 
 * **Post 5: The Direct Account Link & XMPP Contact (`21.01.2018 13:33`) — [Thread Post #70405](https://www.szenebox.org/207-archiv/7928-tech-forum_stellt_sich_vor/index2.html#post70405)**:
-  ![Cyberleek Szenebox Account Link](assets/cyberleek_szenebox_account_link_xmpp_jan2018.jpg)
+  *[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
   * **Author**: `cyberleek` *(using his Dark Flaming Skull avatar)*
   * **Original German**:  
     > *"Hei. 1. Sory für die späte antwort. Zur Zeit habe ich leider kein zugriff auf mein 'tech-forum' account hier. Wen ich den Admin erwische klappt es hoffentlich bald wieder. 2. Besten Dank für dein Positives Feedback! Schön zu hören! Ich werde mich stets weiter bemühen! Update: Anti-Fraud-System eingeführt. Neue Kontakt adresse XMPP: cookie@im-tech-forum.ch"*
@@ -1508,7 +1508,7 @@ On August 19, 2026, researcher [@nico_s29](https://x.com/nico_s29) uncovered arc
   *(Account discovery credit: Community researcher `texploit` · Password reset email verification credit: Community researcher `pwn4life`)*
 
 <div align="center">
-  <img src="assets/twitter_t3chforum_password_reset_email_proof.png" alt="Twitter Password Reset Email Proof admin@tech-forum.ch" width="280" />
+  *[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
   <p><em>X login verification screen for @T3chF0rum confirming the recovery code is sent directly to admin@tech-forum.ch. (Credit: pwn4life)</em></p>
 </div>
 
@@ -1547,10 +1547,10 @@ On August 19, 2026, researcher [@nico_s29](https://x.com/nico_s29) uncovered arc
 ##### 3. 2023 Forum Activity: Tracking Data Leaks, BreachForums & VPN Routing
 
 <div align="center">
-  <img src="assets/cyberleek_szenebox_breachforums_tracking_jul2023.jpg" alt="BreachForums Tracking" width="220" />
-  <img src="assets/cyberleek_szenebox_vpn_ip_bypass_jul2023.jpg" alt="VPN IP Bypass" width="220" />
-  <img src="assets/cyberleek_szenebox_perfect_privacy_vpn_jul2023.jpg" alt="Perfect Privacy VPN" width="220" />
-  <img src="assets/cyberleek_szenebox_exploit_hunting_apr2023.jpg" alt="Exploit Hunting" width="220" />
+  *[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
+  *[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
+  *[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
+  *[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 </div>
 
 *Screenshots from SzeneBox showing Cyberleek was still active throughout 2023 tracking data leaks, BreachForums mirrors, and using privacy VPNs. (Discovery credit: [@nico_s29](https://x.com/nico_s29) on X — [Issue #12](https://github.com/zyrexdz/cyberleek-leak-research/issues/12))*
@@ -1612,7 +1612,7 @@ Community records prove Cyberleek was **actively participating in data breach an
 
 <div align="center">
 
-<img src="assets/onchain_control_cluster_timeline.png" alt="CyberLeek On-Chain Control Cluster Timeline" width="100%" />
+*[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
 
 *Visual timeline showing the shared funding origin, domain setups, file uploads, and Solana voting polls.*
 
@@ -1681,7 +1681,7 @@ Checking all 50 transactions signed by authority **`6Nq6KAzFKFCKDXYg1kqs23EuBBEW
 *(On-chain wallet tracing credit: Community researchers whitemustache0004 and Goons / `justarandomnerd`)*
 
 <div align="center">
-  <img src="assets/onchain_full_wallet_cluster_flowchart.jpg" alt="CyberLeek Complete On-Chain Funding Cluster Map" width="100%" />
+  *[Media removed to comply with policies. For extended research archives and community discussions, join our Discord: https://discord.gg/jGrf68AH6n or Telegram: https://t.me/+6f_p37NsA2w2YWRk]*
   <p><em>Complete chronological transaction graph tracing the operation back to its earliest seed funding on August 3, 2026.</em></p>
 </div>
 
